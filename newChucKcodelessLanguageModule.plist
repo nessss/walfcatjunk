@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMLanguageDisplayName</key>
+	<string>ChucK</string>
+	<key>BBLMLanguageCode</key>
+	<string>ChcK</string>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMScansFunctions</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<true/>
+	<key>BBLMKeywordList</key>
+	<array>
+		<string>int</string>
+		<string>float</string>
+		<string>time</string>
+		<string>dur</string>
+		<string>void</string>
+		<string>same</string>
+		<string>if</string>
+		<string>else</string>
+		<string>while</string>
+		<string>until</string>
+		<string>for</string>
+		<string>repeat</string>
+		<string>break</string>
+		<string>continue</string>
+		<string>return</string>
+		<string>switch</string>
+		<string>class</string>
+		<string>extends</string>
+		<string>public</string>
+		<string>static</string>
+		<string>pure</string>
+		<string>this</string>
+		<string>super</string>
+		<string>interface</string>
+		<string>implements</string>
+		<string>protected</string>
+		<string>private</string>
+		<string>function</string>
+		<string>fun</string>
+		<string>spork</string>
+		<string>const</string>
+		<string>new</string>
+		<string>now</string>
+		<string>true</string>
+		<string>false</string>
+		<string>maybe</string>
+		<string>null</string>
+		<string>NULL</string>
+		<string>me</string>
+		<string>pi</string>
+		<string>samp</string>
+		<string>ms</string>
+		<string>second</string>
+		<string>minute</string>
+		<string>hour</string>
+		<string>day</string>
+		<string>week</string>
+	</array>
+	<key>BBLMPredefinedNameList</key>
+	<array>
+		<string>string</string>
+		<string>Shred</string>
+		<string>Gain</string>
+		<string>Noise</string>
+		<string>Impulse</string>
+		<string>Step</string>
+		<string>HalfRect</string>
+		<string>FullRect</string>
+		<string>ZeroX</string>
+		<string>BiQuad</string>
+		<string>OnePole</string>
+		<string>TwoPole</string>
+		<string>OneZero</string>
+		<string>TwoZero</string>
+		<string>PoleZero</string>
+		<string>LPF</string>
+		<string>HPF</string>
+		<string>BPF</string>
+		<string>BRF</string>
+		<string>ResonZ</string>
+		<string>SndBuf</string>
+		<string>Phasor</string>
+		<string>Osc</string>
+		<string>SinOsc</string>
+		<string>Blit</string>
+		<string>PulseOsc</string>
+		<string>BlitSquare</string>
+		<string>SqrOsc</string>
+		<string>TriOsc</string>
+		<string>SawOsc</string>
+		<string>BlitSaw</string>
+		<string>Pan2</string>
+		<string>Mix2</string>
+		<string>StkInstrument</string>
+		<string>BandedWG</string>
+		<string>BlowBotl</string>
+		<string>BlowHole</string>
+		<string>Bowed</string>
+		<string>Brass</string>
+		<string>Clarinet</string>
+		<string>Flute</string>
+		<string>Mandolin</string>
+		<string>ModalBar</string>
+		<string>Moog</string>
+		<string>Saxofony</string>
+		<string>Shakers</string>
+		<string>Sitar</string>
+		<string>StifKarp</string>
+		<string>VoicForm</string>
+		<string>FM</string>
+		<string>BeeThree</string>
+		<string>FMVoices</string>
+		<string>HevyMetl</string>
+		<string>Rhodey</string>
+		<string>TubeBell</string>
+		<string>Wurley</string>
+		<string>Delay</string>
+		<string>DelayA</string>
+		<string>DelayL</string>
+		<string>Echo</string>
+		<string>Envelope</string>
+		<string>ADSR</string>
+		<string>JCRev</string>
+		<string>NRev</string>
+		<string>PRCRev</string>
+		<string>Chorus</string>
+		<string>Modulate</string>
+		<string>PitShift</string>
+		<string>SubNoise</string>
+		<string>WvIn</string>
+		<string>WaveLoop</string>
+		<string>WvOut</string>
+		<string>Event</string>
+		<string>MidiIn</string>
+		<string>MidiOut</string>
+		<string>MidiRW</string>
+		<string>MidiMsg</string>
+		<string>OscRecv</string>
+		<string>OscSend</string>
+		<string>OscEvent</string>
+		<string>KBHit</string>
+		<string>Hid</string>
+		<string>HidMsg</string>
+		<string>SerialIO</string>
+		<string>GenX</string>
+		<string>Gen5</string>
+		<string>Gen7</string>
+		<string>Gen9</string>
+		<string>Gen10</string>
+		<string>Gen17</string>
+		<string>CurveTable</string>
+		<string>LiSa</string>
+		<string>UAna</string>
+		<string>UAnaBlob</string>
+		<string>Windowing</string>
+		<string>FFT</string>
+		<string>IFFT</string>
+		<string>DCT</string>
+		<string>IDCT</string>
+		<string>Centroid</string>
+		<string>Flux</string>
+		<string>RMS</string>
+		<string>RollOff</string>
+		<string>Std</string>
+		<string>Math</string>
+	</array>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.ck</string>
+		</dict>
+	</array>
+	<key>Language Features</key>
+	<dict>
+		<key>Comment Pattern</key>
+		<string>(?x:
+			(?&gt;	//		.*			$				) |
+			(?&gt;	/\*		(?s:.*?)	(?: \*/ | \z )	)
+		)</string>
+		<key>Function Pattern</key>
+		<string><![CDATA[
+		
+		(?x:
+			(?P<function>
+				
+				(?:(fun|function)\s+)
+				
+				(?:
+					(?>
+						(?> \s+ ) | (?P>comment) | (?P>string)
+					)
+				)*
+				
+				(?P<return_type>
+					(?> [A-Za-z]+(?:\[\])*)
+				)
+				
+				(?:
+					(?>
+						(?> \s+ ) | (?P>comment) | (?P>string)
+					)
+				)*
+				
+				(?P<function_name>
+					(?> _* [A-Za-z] [A-Za-z0-9_]* )
+					(?:
+						(?:
+							(?>
+								(?> \s+ ) | (?P>comment) | (?P>string)
+							)
+						)*
+						::
+						(?:
+							(?>
+								(?> \s+ ) | (?P>comment) | (?P>string)
+							)
+						)*
+						~?	_* [A-Za-z] [A-Za-z0-9_]*
+					)?
+				)
+				
+				(?:
+					(?>
+						(?> \s+ ) | (?P>comment) | (?P>string)
+					)
+				)*
+				
+				(?P<parens>
+					\(
+						(?:
+							(?>
+								(?> [^'"()]+ ) | (?: / (?![/*]) ) | (?P>comment) | (?P>string) | (?P>parens)
+							)
+						)*
+					\)
+				)
+				
+				(?:
+					(?>
+						(?> \s+ ) | (?P>comment) | (?P>string)
+					)
+				)*
+				
+				(?:
+					:
+					(?:
+						(?>
+							(?> [^'"{]+ ) | (?: / (?![/*]) ) | (?P>comment) | (?P>string)
+						)
+					)*
+				)?
+				
+				(?P<braces>
+					{
+						(?:
+							(?>
+								(?> [^'"{}]+ ) | (?: / (?![/*]) ) | (?P>comment) | (?P>string) | (?P>braces)
+							)
+						)*
+					}
+				)
+				
+				
+				
+			)
+		)
+		]]>
+		</string>
+		<key>Identifier and Keyword Character Class</key>
+		<string>0-9A-Z_a-z</string>
+		<key>Skip Pattern</key>
+		<string>(?x:
+			(?&gt;
+				(?P&gt;comment) | (?P&gt;string)
+			)
+		)</string>
+		<key>String Pattern</key>
+		<string>(?x:
+			(?&gt;	"	(?s: \\. | [^"] )*?		(?: " | $)	)	|
+			(?&gt;	'	(?s: \\. | [^'] )*?		(?: ' | $)	)
+		)</string>
+	</dict>
+</dict>
+</plist>
